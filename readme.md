@@ -211,3 +211,7 @@ Processes user input through Watson Assistant and triggers recommendations.
 - Gradio for the web interface framework
 - Scikit-learn for machine learning algorithms
 - The open-source book dataset used for training
+### Project Screenshot
+
+![App Screenshot](assets/Screenshot%20(521).png)
+
